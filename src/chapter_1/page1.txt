@@ -10,3 +10,6 @@ Created a new project
 Created a new package called chapter_1
 Created a new text file called page1
 
+
+Extra Text
+
