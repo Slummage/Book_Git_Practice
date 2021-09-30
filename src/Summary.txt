@@ -2,3 +2,7 @@ This is our new file
 
 This is a text
 New file
+
+Updates
+
+Line
